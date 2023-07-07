@@ -1,4 +1,4 @@
-# cs628 Full-Stack Development - Web App
+# CS628 Full-Stack Development - Web App
 
 ## Programming Exercises
 
