@@ -29,8 +29,8 @@ const TodoList = () => {
   return (
     <div className="todo-list-container">
       <div className="input-container">
-        <input type="text" placeholder="Enter task description" value={todoTitle} onChange={handleTitleChange} />
-        {/* <input type="text" placeholder="Description" value={todoDescription} onChange={handleDescriptionChange} /> */}
+        <input type="text" placeholder="Title" value={todoTitle} onChange={handleTitleChange} />
+        <input type="text" placeholder="Description" value={todoDescription} onChange={handleDescriptionChange} />
       </div>
       <div>
       <button onClick={handleAddTodo}>Add Task</button>
