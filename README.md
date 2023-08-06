@@ -4,4 +4,4 @@
 
 * Module1: PE01- Resume
 * Module2: PE02- Movie List
-* Module2: PE03- Todo List
+* Module3: PE03- Todo List
