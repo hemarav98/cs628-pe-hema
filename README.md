@@ -6,4 +6,5 @@
 * Module2: PE02- Movie List
 * Module3: PE03- Todo List
 * Module4: PE04- Cities
+* Module5: PE05- Recipe Finder
 
